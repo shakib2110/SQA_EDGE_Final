@@ -21,11 +21,11 @@ public class myclass {
 		WebDriverWait letswait = new WebDriverWait(driver, Duration.ofSeconds(60));
 		
 		//Inputs as array:
-		String[][] testData = {
-                {"TestOrg1", "John", "Doe", "test01@yopmail.com", "User01", "testdom", "Password123@", "Password123@"},
+//		String[][] testData = {
+                //{"TestOrg1", "John", "Doe", "test01@yopmail.com", "User01", "testdom", "Password123@", "Password123@"},
 //                {"TestOrg2", "Alice", "Smith", "alice.smith@test.com", "User02", "testdom", "Password456@", "Password456@"},
 //                {"TestOrg3", "Bob", "Williams", "bob.williams@test.com", "User03", "testdom", "Password789@", "Password789@"}
-        };
+//        };
 
 		//String filePath = "C:\\Personal Files\\RegistrationData.xlsx";
 		//List<String[]> testData = ExcelReader.readExcel(filePath, "Sheet1");
